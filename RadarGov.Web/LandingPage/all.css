@@ -15,3 +15,17 @@
   border-radius: 20px;
   pointer-events: none;
 }
+
+
+/* Paleta de cores  */
+
+.green-primary {color: #1f5405; }
+.green-dark {color: #0A2601;}
+.green-light {color: #E5EDD8;}
+.green-light-md {color: #99BA73;}
+.green-dark-md {color: #144003;}
+.success {color: #99f56c;}
+.error {color: #e63737;}
+.alert {color: #faee6e;}
+.neutral-light {color: #FCFCFC;}
+.neutral-dark {color: #040712;}
